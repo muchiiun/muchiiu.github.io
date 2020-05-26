@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Muchiiu&#39;s Blog</title>
-    <link>http://muchiiu.github.io/</link>
+    <link>http://muchiiun.github.io/</link>
     <description>Recent content on Muchiiu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 26 May 2020 23:39:12 +0800</lastBuildDate>
     
-	<atom:link href="http://muchiiu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://muchiiun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2020 05 26</title>
-      <link>http://muchiiu.github.io/zone/2020-05-26/</link>
+      <link>http://muchiiun.github.io/zone/2020-05-26/</link>
       <pubDate>Tue, 26 May 2020 23:39:12 +0800</pubDate>
       
-      <guid>http://muchiiu.github.io/zone/2020-05-26/</guid>
+      <guid>http://muchiiun.github.io/zone/2020-05-26/</guid>
       <description>今天心情不错 夏霖我真的喜欢你呀,哈哈哈,你可能听不见</description>
     </item>
     
     <item>
       <title>试试线段树与跳跃表的性能吧</title>
-      <link>http://muchiiu.github.io/post/init/</link>
+      <link>http://muchiiun.github.io/post/init/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://muchiiu.github.io/post/init/</guid>
+      <guid>http://muchiiun.github.io/post/init/</guid>
       <description></description>
     </item>
     

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Muchiiu&#39;s Blog</title>
-    <link>http://muchiiu.github.io/tags/</link>
+    <link>http://muchiiun.github.io/tags/</link>
     <description>Recent content in Tags on Muchiiu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://muchiiu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://muchiiun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CPP</title>
-      <link>http://muchiiu.github.io/tags/cpp/</link>
+      <link>http://muchiiun.github.io/tags/cpp/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://muchiiu.github.io/tags/cpp/</guid>
+      <guid>http://muchiiun.github.io/tags/cpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>http://muchiiu.github.io/tags/mysql/</link>
+      <link>http://muchiiun.github.io/tags/mysql/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://muchiiu.github.io/tags/mysql/</guid>
+      <guid>http://muchiiun.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>数据结构与算法</title>
-      <link>http://muchiiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
+      <link>http://muchiiun.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://muchiiu.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</guid>
+      <guid>http://muchiiun.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/</guid>
       <description></description>
     </item>
     

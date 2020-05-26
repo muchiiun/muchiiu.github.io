@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MySQL on Muchiiu&#39;s Blog</title>
-    <link>http://muchiiu.github.io/tags/mysql/</link>
+    <link>http://muchiiun.github.io/tags/mysql/</link>
     <description>Recent content in MySQL on Muchiiu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://muchiiu.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://muchiiun.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>试试线段树与跳跃表的性能吧</title>
-      <link>http://muchiiu.github.io/post/init/</link>
+      <link>http://muchiiun.github.io/post/init/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://muchiiu.github.io/post/init/</guid>
+      <guid>http://muchiiun.github.io/post/init/</guid>
       <description></description>
     </item>
     
